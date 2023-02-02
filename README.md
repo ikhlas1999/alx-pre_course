@@ -1,2 +1,3 @@
 # alx-pre_course
-I'm now a ALX Student, this is my first repository as a full-stack engineer
+Je suis maintenant étudiant ALX, c'est mon premier référentiel en tant qu'ingénieur full-stack
+my first readme
